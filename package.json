@@ -1,0 +1,25 @@
+{
+  "name": "noderepo",
+  "version": "1.0.0",
+  "description": "This is my first node js work",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite1",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite1":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopaljee023/noderepo.git"
+  },
+  "author": "GOPAL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gopaljee023/noderepo/issues"
+  },
+  "homepage": "https://github.com/gopaljee023/noderepo#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
